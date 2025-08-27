@@ -1,3 +1,6 @@
+## POTM
+POTM ist die Abkürzung für **Player of the Match**
+
 ## Zweck
 Diese Seite bietet die Möglichkeit für jedese Handballspiel den *Best Player* zu wählen. Einzige Bedingung zur Wahl ist eine Mailadresse. Dies Mehrfachstimmen zu minimieren.
 
