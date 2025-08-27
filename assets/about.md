@@ -5,11 +5,9 @@ POTM ist die Abkürzung für **Player of the Match**
 Diese Seite bietet die Möglichkeit für jedese Handballspiel den *Best Player* zu wählen. Einzige Bedingung zur Wahl ist eine Mailadresse. Dies um Mehrfachstimmen zu minimieren.
 
 ## Datenschutz
-
 Die Abfrage des Ortes dient nur dem Zweck die nächstgelegene Halle zu finden. Der Ort wird niemals gespeichert.
   
 ### Folgende Daten werden gespeichert:
-
 | Name        | Beschreibung                    |
 |-------------|---------------------------------|
 | UID | zufällig erzeugte ID            |
@@ -24,3 +22,6 @@ Die Abfrage des Ortes dient nur dem Zweck die nächstgelegene Halle zu finden. D
 ### Automatisches Löschen
 * Stimmen werden nach 100 Tagen gelöscht
 * nicht benutzte User und deren Stimmen werden nach 100 Tagen gelöscht
+
+## Werbung
+Aktuell wird Google Werbung eingeblendet. Falls du dieses Projekt unterstützen möchtest, nimm Kontakt auf unter info@potm.ch.
