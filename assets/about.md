@@ -4,6 +4,9 @@ POTM ist die Abkürzung für **Player of the Match**
 ## Zweck
 Diese Seite bietet die Möglichkeit für jedes Handballspiel den *Best Player* zu wählen. Für jedes Spiel können Stimmen bis ca. 20 Sekunden nachdem der LiveTicker Status auf Spiel beendet gestellt wurde.
 
+## Unterstützung
+
+Falls du uns unterstützen möchtest, bei [Stripe](https://donate.stripe.com/aFaaEY87iaRC18V77Nbo400) kannst du uns unterstüten.
 
 ## Datenschutz
 Die Abfrage des Ortes dient nur dem Zweck die nächstgelegene Halle zu finden. Der Ort wird niemals gespeichert. Alle Benutzer sind anonym.
